@@ -1,7 +1,5 @@
 # An Econometric Analysis on NFL Quarterback Salaries
 
-## Regression Analysis
-
 ### Methodology
 
 #### Techniques Used:
