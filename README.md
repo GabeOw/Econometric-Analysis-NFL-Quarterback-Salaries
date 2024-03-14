@@ -28,7 +28,7 @@
 #### Interpretation of Findings:
 
 - The positive relationship between age and salary up to a certain point reflects the NFL's premium on experience, likely due to its correlation with leadership and game management skills. However, the diminishing or negative returns after a peak age indicate a preference for youth as teams balance experience with physical decline.
-- The significant positive effects of touchdowns and total yards on salaries highlight the emphasis on quarterbacks' ability to contribute directly to scoring and move the ball, critical aspects of winning games.
+- The significant positive effects of touchdowns and total yards on salaries highlight the emphasis on quarterbacks' ability to contribute directly to scoring and to move the ball, critical aspects of winning games.
 - The negative impact of interceptions on salaries emphasizes risk aversion in quarterback play. Teams penalize quarterbacks for turnovers, which can drastically change the course of a game.
 - The complexity of quarterback performance evaluation is evident in the importance of the QBR metric, which attempts to isolate the quarterback's contribution from the team's performance. Its significance suggests teams value a quarterback's efficiency and decision-making in varied play contexts.
 
