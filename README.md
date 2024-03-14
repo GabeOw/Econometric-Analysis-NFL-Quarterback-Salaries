@@ -1,4 +1,4 @@
-# An Econometric Analysis on NFL Quarterback Salaries
+# Econometric Analysis of NFL Quarterback Salaries
 
 ### Methodology
 
